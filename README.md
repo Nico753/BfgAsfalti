@@ -30,6 +30,7 @@ Le immagini nella galleria sono ottimizzate per diverse risoluzioni e il menu di
 ## 📂 Struttura del Progetto
 
 bfg-asfalti/
+
 │
 ├── index.html # Homepage con panoramica dell’azienda
 ├── chiSiamo.html # Pagina "Chi siamo"
