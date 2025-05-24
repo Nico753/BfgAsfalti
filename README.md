@@ -29,24 +29,25 @@ Le immagini nella galleria sono ottimizzate per diverse risoluzioni e il menu di
 
 ## 📂 Struttura del Progetto
 
+```plaintext
 bfg-asfalti/
-
 │
-├── index.html # Homepage con panoramica dell’azienda
-├── chiSiamo.html # Pagina "Chi siamo"
-├── servizi.html # Panoramica dei servizi offerti
-├── galleria.html # Galleria dei lavori
-├── contatti.html # Pagina di contatto
-├── cookie.html # Informativa sui cookie
+├── index.html            # Homepage con panoramica dell’azienda
+├── chiSiamo.html         # Pagina "Chi siamo"
+├── servizi.html          # Panoramica dei servizi offerti
+├── galleria.html         # Galleria dei lavori
+├── contatti.html         # Pagina di contatto
+├── cookie.html           # Informativa sui cookie
 │
 ├── css/
-│ └── style.css # Stili principali e media queries
+│   └── style.css         # Stili principali e media queries
 │
 ├── js/
-│ └── script.js # Script per le interazioni dinamiche
+│   └── script.js         # Script per le interazioni dinamiche
 │
 └── img/
-└── ... # Immagini e grafiche del sito
+    └── ...               # Immagini e grafiche del sito
+```
 
 bash
 Copia
