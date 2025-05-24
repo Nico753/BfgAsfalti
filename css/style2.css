@@ -1,0 +1,47 @@
+.hero-section {
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+}
+.lead{
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+}
+.lead2{
+    font-size: 25px;
+    color: white;
+}
+
+.about-section {
+    background-color: #ffffff;
+    padding: 50px 0;
+}
+
+.text-white{
+    color: white;
+}
+
+.text-orange{
+    color: orange;
+    font-size: 24px;
+}
+
+.texct-black{
+    color: black;
+    font-size: 20px;
+}
+
+.btnMostraAltro{
+    margin-top: 50px;
+    font-size: 25px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #404040;
+    color: orange;
+}
+
+.Altro{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}

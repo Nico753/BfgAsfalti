@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.text-white{
+    color: white;
+}
+
+.text-black{
+    color: black;
+}
+.sizeP{
+    font-size: 20px;
+}
+.headerMain {
+    background: orange;
+    color: black;
+    padding: 20px 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+.opening-hours {
+    margin: 20px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    overflow: hidden;
+}
+.hours-table {
+    background-color: orange;
+    color: black;
+    text-align: center;
+    padding: 10px 0;
+}
+table tr:hover {
+    background-color: #f0f0f0;
+}
+.map-section {
+    margin-top: 40px;
+    text-align: center;
+}
+.cta-button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: all 0.3s;
+}
+.cta-button:hover {
+    background-color: #218838;
+    transform: scale(1.1);
+}
+.footer {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 14px;
+}
